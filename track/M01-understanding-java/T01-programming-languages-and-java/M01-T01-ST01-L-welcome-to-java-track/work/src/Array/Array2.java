@@ -41,6 +41,7 @@ public class Array2 {
         for (int i = 0; i <= c.length - 1; i++) {
             System.out.println(c[i]);
         }
+        
         scanner.close();
 
     }
