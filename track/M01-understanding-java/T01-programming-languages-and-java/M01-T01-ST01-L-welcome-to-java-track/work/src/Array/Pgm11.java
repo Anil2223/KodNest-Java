@@ -26,6 +26,13 @@ public class Pgm11 {
         System.out.println("ensureCapacity "+sub.capacity());
         System.out.println("new java length "+sub.length());
 
+        sub.insert(0,"python programming ");
+        System.out.println(sub);
+        sub.delete(0,4);
+        System.out.println(sub);
+        sub.reverse();
+        System.out.println("reverse "+sub);
+
 
     }
 }
