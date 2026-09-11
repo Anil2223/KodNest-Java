@@ -1,7 +1,7 @@
 package Array;
 import java.util.*;
 public class Pgm13 {
-    public static void main(String[] args){
+    public static void main(String[] rgs){
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter the string ");
         String str=scanner.nextLine();
